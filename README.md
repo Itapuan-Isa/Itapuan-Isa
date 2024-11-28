@@ -3,6 +3,6 @@
 
 -Só mais uma lunática nessa área da programação;
 
--Tentando não surtar até virar uma Web Developer.
+-Tentando não surtar até virar uma cientista de compuatação...
 
 --->
