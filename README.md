@@ -1,8 +1,6 @@
 - 👋 Oi! Eu sou @Itapuan-Isa
-- 💻 Técnico em Informática IFRS - 2/4
-
+- 💻 Técnico em Informática IFRS - 3/4
 -Só mais uma lunática nessa área da programação;
-
--Tentando não surtar até virar uma cientista de compuatação...
-
+-Bolsista em projeto de IA+Dev: Explorando o Papel da IA no Desenvolvimento de Software
+-Fluente em portugês, inglês e alemão. 
 --->
